@@ -5,7 +5,7 @@ This demo showcases how a professional restaurant website should look, feel, and
 
 🔗 Live Demo
 👉 Website Preview:
-https://github.com/yourusername/dine-dhaka
+https://cafedemo1.vercel.app/
 
 Viewing the live demo gives restaurant owners a clear idea of what they will get after customization.
 
